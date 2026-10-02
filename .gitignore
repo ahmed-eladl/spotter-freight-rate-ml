@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.venv/
+env/
+.env
+temp_*.db
+*loom*
+*script*.md
+~$*
+.vscode/
